@@ -1,3 +1,3 @@
 ## Project info
 
-**URL**: https://ai-password-strength-analyzer-g5n3l9yb5.vercel.app
+**URL**: https://ai-password-strength-a-git-6db6ee-karthikeyas-projects-17155c19.vercel.app/
